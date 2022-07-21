@@ -1,0 +1,35 @@
+body{
+  background-color:hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+}
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container{
+  text-align: center;
+  background-color: white;
+  width: 280px;
+  border-radius: 20px;
+  padding:1rem 1rem 1.5rem;
+  margin:1rem;
+}
+.container img{
+  width:100%;
+  border-radius: 7px;
+}
+.text1{
+  font-weight: 700;
+  color:hsl(218, 44%, 22%);
+}
+.text2{
+  font-weight: 400;
+  color:hsl(220, 15%, 55%);
+}
+.attribution{
+  text-align: center;
+  font-size: 11px;
+}
