@@ -14,13 +14,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](Screenshot 2022-07-20 at 16-13-19 Frontend Mentor QR code component.png)
+![Screenshot 2022-07-20 at 16-13-19 Frontend Mentor QR code component.png]
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/evereverk/Qr-code-challenge-Frontend.git] 
+- Live Site URL: [https://evereverk.github.io/Qr-code-challenge-Frontend/s]
 
 ### Built with
 
