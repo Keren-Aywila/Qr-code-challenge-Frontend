@@ -21,6 +21,7 @@ body{
   width: 300px;
   border-radius: 20px;
   height: 480px;
+  box-shadow: 0 30 45 #161616;
 }
 img{
   width: 100%;
