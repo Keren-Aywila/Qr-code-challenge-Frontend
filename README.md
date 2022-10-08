@@ -48,8 +48,8 @@ section{
 
 ## Author
 
-- Frontend Mentor - [@evereverk](https://www.frontendmentor.io/profile/evereverk)
-- Instagram - [@everever.k](https://www.instagram.com/everever.k)
+- Frontend Mentor - [@KerenAywila](https://www.frontendmentor.io/profile/evereverk)
+- Instagram - [@kerenaywila](https://www.instagram.com/kerenaywila)
 - Github -
-[@evereverk](https://www.github.com/evereverk)
-- Slack - [@evereverk](https://www.slack.com/evereverk)
+[@KerenAywila](https://www.github.com/KerenAywila)
+- Slack - [@KerenAywila](https://www.slack.com/KerenAywila)
