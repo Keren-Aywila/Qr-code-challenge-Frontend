@@ -29,27 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 
 
-### What I learned
-
-During the process of writing the code, i had a major problem, which was centering the "seection". I knew the "align-item" is used for centering your content . I tried that , but it still didn't work. I got fustrated and i decided to go online for help or solution.
-And that how i figured what i was getting wrong. I learned you have to declare the height of the page so that to set a boundary.
-
-```css
-section{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-} 
-
 ### Useful resources
 
-- [Example resource 1](https://www.stackoverflow.com) - This helped me to center the section container.
-
-## Author
-
-- Frontend Mentor - [@KerenAywila](https://www.frontendmentor.io/profile/evereverk)
-- Instagram - [@kerenaywila](https://www.instagram.com/kerenaywila)
-- Github -
-[@KerenAywila](https://www.github.com/KerenAywila)
-- Slack - [@KerenAywila](https://www.slack.com/KerenAywila)
+- [Resource](https://www.stackoverflow.com) - This helped me to center the section container.
